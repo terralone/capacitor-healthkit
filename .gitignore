@@ -1,6 +1,8 @@
 # node files
-dist
 node_modules
+
+# build
+# dist
 
 # iOS files
 Pods
